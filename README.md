@@ -25,8 +25,8 @@
 - [Project Two](#) – Highlight the key features or technologies used.
 
 ## How to Reach Me
-- LinkedIn: [Sheikh Mohammad Rakib](#)
-- Email: [email@example.com](mailto:sheikhmdrakib.career.com)
+- LinkedIn: [Sheikh Mohammad Rakib](https://www.linkedin.com/in/sheikh-mohammad-rakib-9295022a1/)
+- Email: [sheikhmdrakib.career@gmail.com](mailto:sheikhmdrakib.career@gmail.com)
 
 Thanks for stopping by! 🔥
   
