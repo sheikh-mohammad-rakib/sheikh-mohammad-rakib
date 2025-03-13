@@ -26,7 +26,7 @@
 
 ## How to Reach Me
 - LinkedIn: [Sheikh Mohammad Rakib](#)
-- Email: [email@example.com](mailto:email@example.com)
+- Email: [email@example.com](mailto:sheikhmdrakib.career.com)
 
 Thanks for stopping by! 🔥
   
