@@ -188,7 +188,6 @@ I'm currently deepening my knowledge in:
 <p>
   <img src="https://img.shields.io/github/followers/sheikh-mohammad-rakib?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sheikh-mohammad-rakib?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repos/sheikh-mohammad-rakib?style=for-the-badge&logo=github&label=Repositories" alt="GitHub Repositories" />
 </p>
 
 ---
