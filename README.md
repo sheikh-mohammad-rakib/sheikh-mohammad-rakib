@@ -145,28 +145,6 @@ A two-sided printing platform connecting students with printing shops. Students 
 
 ---
 
-## 🛡️ INNAGUARD AI
-
-**AI-powered cybersecurity platform**
-
-A cybersecurity application designed to combine malware detection, behavioral analytics, and automated threat response.
-
-### Highlights
-
-- AI-powered malware analysis
-- User behavior analytics
-- Threat detection
-- Automated response workflows
-- Real-time security dashboard
-- Python backend
-- Machine-learning components
-
-**Stack:** Python · FastAPI · Streamlit · Machine Learning
-
-🔗 [View Repository](https://github.com/sheikh-mohammad-rakib/INNAGUARD)
-
----
-
 ## 💼 Employee Management System
 
 **Business-oriented backend application**
