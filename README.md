@@ -186,11 +186,9 @@ I'm currently deepening my knowledge in:
 # 📈 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikh-mohammad-rakib&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-mohammad-rakib&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/sheikh-mohammad-rakib?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/sheikh-mohammad-rakib?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/repos/sheikh-mohammad-rakib?style=for-the-badge&logo=github&label=Repositories" alt="GitHub Repositories" />
 </p>
 
 ---
